@@ -1,3 +1,6 @@
+#include<iostream>
+using namespace std;
+
 long long int res = 0;
 void merge(long long *arr, long long l, long long m, long long r)
 {
