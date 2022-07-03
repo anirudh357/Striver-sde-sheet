@@ -11,6 +11,7 @@ public:
             if(count==0)
             {
                 candidate=num;
+                count++;
             }    
             else if(num==candidate)
             {
