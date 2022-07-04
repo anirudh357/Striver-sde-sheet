@@ -22,7 +22,7 @@ public:
         // Two pinters Approach
         // T.C - O(NlogN) and S.C - O(N)
 //            vector<int> res, store;
-//            store=nums;
+//            store=nums; //              sort(store.begin(), store.end());
 //            int left=0, right=nums.size()-1;
 //            int num1,num2;        
 //            while(left<right)
